@@ -55,9 +55,9 @@
           <div class="col-6">
             <h2 style="float: left;margin: 2px;padding: 2px;font-weight: bold; ">Notice Board</h2>
           </div>
-          <div class="col-6">
+          <!-- <div class="col-6">
             <input type="button" class="btn btn-info" style="float: right" value="View Notice">
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="topnav mt-2">

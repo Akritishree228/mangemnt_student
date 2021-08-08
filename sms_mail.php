@@ -63,10 +63,11 @@
             <h2 style="float: left;margin: 2px;padding: 2px;font-weight: bold; ">Mail/SMS</h2>
           </div>
           <div class="col-4">
-            <input type="button" class="btn btn-info" style="float: right" value="List of sent message">
+            <!-- <input type="button" class="btn btn-info" style="float: right" value="List of sent message"> -->
+            <a href="./messages.php" type="button" class="btn btn-info" onclick="myFunction()" style="float: right" >List of Message</a>
           </div>
           <div class="col-2">
-            <input type="button" class="btn btn-info" onclick="myFunction()" style="float: right" value="Mail/Sms Setting">
+            <a href="./setting.php" type="button" class="btn btn-info" onclick="myFunction()" style="float: right" >Mail Setting</a>
           </div>
         </div>
       </div>

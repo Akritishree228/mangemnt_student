@@ -53,7 +53,7 @@
   <!-- sidebar-wrapper  -->
   <main class="page-content ">
     
-      <div class="navbar navbar-expand-md bg-warning navbar-warning mt-5">
+      <div class="navbar navbar-expand-md  mt-5">
         <div class="container">
           <div class="col-6">
             <h2 style="float: left;margin: 2px;padding: 2px;font-weight: bold; ">MANAGE TEACHER</h2>
@@ -292,7 +292,9 @@
                 <!-- Modal body -->
                 <div class="modal-body">
                   <div class="row">
-                    <div class="col-4"></div>
+                    <div class="col-4">
+                    <img src="./images/pic/not_1.png" alt="student_image" style="width:180px">
+                    </div>
 
                       <div class="col-8">
                         <div class="row">

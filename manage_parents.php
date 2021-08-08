@@ -310,7 +310,7 @@
             <div class="modal-body">
               <div class="row">
                     <div class="col-4">
-                       <img src="./images/pic/not_1.png" alt="profile_pic" style="width:100px;margin-left:10px">
+                    <img src="./images/pic/not_1.png" alt="student_image" style="width:180px">
                     </div>
 
                           <div class="col-8">

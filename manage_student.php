@@ -304,7 +304,9 @@
                       <!-- Modal body -->
                       <div class="modal-body">
                         <div class="row">
-                          <div class="col-4"></div>
+                          <div class="col-4">
+                            <img src="./images/pic/not_1.png" alt="student_image" style="width:180px">
+                          </div>
                           <div class="col-8">
                             <div class="row">
                               <div class="col-6" style="font-weight: bold;">Name:</div>

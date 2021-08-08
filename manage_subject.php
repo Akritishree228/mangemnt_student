@@ -53,7 +53,7 @@
   <!-- sidebar-wrapper  -->
   <main class="page-content ">
     
-      <div class="navbar navbar-expand-md bg-warning navbar-warning mt-5">
+      <div class="navbar navbar-expand-md  mt-5">
         <div class="container">
           <div class="col-6">
             <h2 style="float: left;margin: 2px;padding: 2px;font-weight: bold; ">Manage Subject</h2>
